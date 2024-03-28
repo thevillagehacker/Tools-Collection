@@ -4,7 +4,7 @@
 [GitHub Release](https://github.com/tomnomnom/qsreplace/releases)
 
 ## gfpatterns
-[gf-patterns]()
+[gf-patterns windows binary](gf.exe)
 [Patterns](https://github.com/1ndianl33t/Gf-Patterns)
 
 ## HTTPX
@@ -24,3 +24,16 @@
 
 ## Uncover
 [Github Release](https://github.com/projectdiscovery/uncover/releases)
+
+## TLSx
+[GitHub Release](https://github.com/projectdiscovery/tlsx/releases)
+
+## DNSx
+[GitHub Release](https://github.com/projectdiscovery/dnsx/releases)
+
+## Wappalyzer Go
+[Windows Binary]()
+
+```text
+go install -v github.com/projectdiscovery/wappalyzergo/cmd/update-fingerprints@latest
+```
