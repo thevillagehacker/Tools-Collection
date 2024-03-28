@@ -32,7 +32,6 @@
 [GitHub Release](https://github.com/projectdiscovery/dnsx/releases)
 
 ## Wappalyzer Go
-[Windows Binary]()
 
 ```text
 go install -v github.com/projectdiscovery/wappalyzergo/cmd/update-fingerprints@latest
