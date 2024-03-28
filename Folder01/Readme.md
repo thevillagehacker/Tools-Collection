@@ -36,3 +36,6 @@
 ```text
 go install -v github.com/projectdiscovery/wappalyzergo/cmd/update-fingerprints@latest
 ```
+
+## WFUZZ
+[GitHub](https://github.com/xmendez/wfuzz)
