@@ -39,3 +39,5 @@ go install -v github.com/projectdiscovery/wappalyzergo/cmd/update-fingerprints@l
 
 ## WFUZZ
 [GitHub](https://github.com/xmendez/wfuzz)
+
+507d5974-8d86-4806-b60d-b81772ee6c59
